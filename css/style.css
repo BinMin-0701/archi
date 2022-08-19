@@ -34,8 +34,11 @@ ul li a.nav-link {
 .h0 {
   color: #171717;
   display: block;
+  font-size: 64px;
   font-weight: 300;
+  line-height: 64px;
   letter-spacing: -0.02em;
+  padding: 0 0 12px;
 }
 
 h1, .h1 {
@@ -43,10 +46,6 @@ h1, .h1 {
   font-weight: 400 !important;
   line-height: 60px !important;
   margin: 0 !important;
-}
-
-h2 {
-
 }
 
 h3 {
@@ -106,12 +105,6 @@ h6 {
 /* End: Navigation */
 
 /* Begin: Modern+environmentally conscious homes */
-.h0 {
-  font-size: 64px;
-  line-height: 64px;
-  padding: 0 0 12px;
-}
-
 @media (min-width: 1200px) {
   .h0 {
     font-size: 90px ;
